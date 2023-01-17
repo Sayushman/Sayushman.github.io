@@ -1,2 +1,2 @@
-# coursera
-courses i have enrolled in coursera
+# Jupiter
+machine learning using python
